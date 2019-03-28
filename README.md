@@ -7,7 +7,8 @@ https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minute
 
 This uses the express framework and mongodb packages.
 
-##Install the prereqs
+Install the prereqs
+
 npm install --save express mongodb@2.2.16 body-parser
 
 db.js file also needs to be configured for correct mongodb connection.
